@@ -2,3 +2,5 @@ Welcome to the Restaurant
 
 Pizza
 Pasta
+
+Chicken Fry
